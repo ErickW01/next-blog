@@ -1,5 +1,5 @@
 ---
-title: "Journal-App Re-Vamp!"
+title: "(Journal-App) Re-Vamp!"
 date: "2024-08-27"
 ---
 
